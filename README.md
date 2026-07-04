@@ -33,11 +33,11 @@ Hi 👋, I'm Avinav
 
 🚀 Building real-world AI Projects
 
+🌱 Currently improving DSA & System Design
+
 📷 Nature Photography Lover
 
 ✏️ Sketching in free time
-
-🌱 Currently improving DSA & System Design
 
 ⚡ Fun Fact:
 > I enjoy turning ideas into real-world applications.
@@ -152,15 +152,15 @@ Stay tuned 🚀
 <p align="center">
 
 <a href="https://linkedin.com/in/avinav-7b553b285">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ku2004avinav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Avinav2711">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
